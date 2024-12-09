@@ -1,16 +1,41 @@
 # Projects
-# uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# Game of Luck Dice Roller
+- project: Game of Luck Dice Roller
+  role: Developer
+  duration: 2024
+  url: "https://epiccodeee.github.io/Epiccodees-Game-of-Luck/"
+  description: Developed a multiplayer dice rolling game using JavaScript and CSS, allowing players to compete for the highest score with real-time updates.
+  impact: Enhanced user interaction through responsive design and engaging game mechanics.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# Interactive Bank Application
+- project: Interactive Bank Application
+  role: Developer
+  duration: 2024
+  url: "https://epiccodeee.github.io/Epiccodeee-s-Bank/"
+  description: Designed and implemented a fully functional banking application using JavaScript, React.js, and Tailwind CSS, featuring features like money transfers, balance tracking, and account management.
+  impact: Simplified banking operations with an intuitive user interface and optimized performance for seamless transactions.
+
+# Soccer Enthusiast Portal
+- project: Soccer Enthusiast Portal
+  role: Developer
+  duration: 2024
+  url: "https://epiccodeee.github.io/Soccer-Web-Page/"
+  description: Developed a visually appealing soccer player showcase web app using HTML, CSS (Tailwind), and JavaScript, highlighting legendary players with interactive and responsive layouts.
+  impact: Engaged sports enthusiasts by offering detailed player profiles and a sleek, responsive design.
+
+# Guess My Number Game
+- project: Guess My Number Game
+  role: Developer
+  duration: 2024
+  url: "https://epiccodeee.github.io/Epiccodees-Game-of-Numbers/"
+  description: Created an interactive number guessing game using JavaScript and CSS, where users can guess a randomly generated number with instant feedback and scoring.
+  impact: Improved user engagement with a dynamic and entertaining gameplay experience.
+
+# IEEE Paper: Activity Detection for Dogs Using Wearable Sensors
+- project: IEEE Paper: Activity Detection for Dogs Using Wearable Sensors
+  role: Co-Author
+  duration: 2023 — 2024
+  url: "https://epiccodeee.github.io/IEEE-Paper-Dogs-Activity-Detection/"
+  description: Co-authored this paper during my role as a Graduate Research Assistant at Saginaw Valley State University, contributing to advanced research in wearable sensor technology and machine learning for activity detection. Conducted in-depth literature reviews and designed a framework leveraging deep learning models for real-time classification of canine activities.
+  impact: Advanced academic contributions in the field, offering a foundation for further research in technology-driven solutions for pet health monitoring.

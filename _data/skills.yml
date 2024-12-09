@@ -1,12 +1,25 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Full-Stack Web Development
+- skill: Full-Stack Web Development
+  description: Proficient in building dynamic and scalable web applications using React.js, Node.js, Tailwind CSS, and JavaScript. Strong expertise in designing responsive user interfaces and implementing RESTful APIs.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Database Management and Optimization
+- skill: Database Management and Optimization
+  description: Extensive experience in managing and optimizing databases using MySQL and MongoDB to ensure high performance, scalability, and reliability.
+
+# Cloud Computing and DevOps
+- skill: Cloud Computing and DevOps
+  description: Familiar with Docker, Kubernetes, and version control systems like Git for efficient deployment and collaboration in cloud-based environments.
+
+# Machine Learning and Research
+- skill: Machine Learning and Research
+  description: Developed and co-authored research on wearable sensors using Convolutional Neural Networks (CNN) for real-time activity detection, contributing to innovative academic solutions.
+
+# Problem-Solving and Collaboration
+- skill: Problem-Solving and Collaboration
+  description: Skilled at identifying and resolving complex challenges in software development, with a strong ability to collaborate across cross-functional teams to deliver results.
+
+# Leadership and Mentorship
+- skill: Leadership and Mentorship
+  description: Demonstrated leadership in guiding peers and interns on development projects, fostering a collaborative and innovative environment.

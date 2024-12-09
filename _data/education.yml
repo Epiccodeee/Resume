@@ -1,13 +1,17 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Master of Science in Computer Science and Information Systems
+  uni: Saginaw Valley State University
+  year: 2023 — 2025
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: GPA: 3.8
+    - award: Consistently ranked among top-performing students
+  summary: Specialized in Distributed Systems, Data Analytics, Machine Learning, and Full Stack Development. Led projects and collaborated with peers to build scalable web applications and optimize system performance.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Bachelor of Technology in Computer Science and Engineering (B.Tech CSE)
+  uni: Kalinga University
+  year: 2016 — 2020
+  awards:
+    - award: GPA: 8.7/10
+    - award: Ranked in the top 10% of the class
+    - award: Awarded for outstanding performance in Data Structures and Algorithms
+  summary: Completed key projects in software development, including designing a library management system, developing an e-commerce website, and optimizing traffic signal systems using advanced programming techniques.
